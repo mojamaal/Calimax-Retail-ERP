@@ -1,0 +1,66 @@
+Calimax ERP — Proprietary Software License
+==========================================
+
+Copyright (c) 2026 Mohammed Jamaal Rushdi. ALL RIGHTS RESERVED.
+
+This repository and everything in it — source code, database schemas,
+migrations, scripts, designs, documentation and any other content
+(together, the "Software") — is the exclusive, proprietary property of the
+copyright holder named above (the "Owner"). The Software is NOT open source
+and is NOT released under any open-source or free-software license.
+
+1. VIEWING ONLY
+   The Owner makes the Software publicly visible solely so that recruiters,
+   employers and other interested people can read it and evaluate the
+   Owner's skills (a "portfolio review"). Viewing the source on GitHub is the
+   only permission granted. No other right or license is granted, whether
+   by implication, estoppel or otherwise.
+
+2. WHAT YOU MAY NOT DO WITHOUT THE OWNER'S PRIOR WRITTEN PERMISSION
+   You may not, in whole or in part:
+   a) use, run, deploy, host or operate the Software, including in any
+      business, shop, company, organisation or on behalf of a client;
+   b) use the Software for any commercial purpose, including selling,
+      licensing, renting, offering it as a service (SaaS/hosted), bundling it
+      in a product, or using it to generate revenue or support a business;
+   c) copy, reproduce, modify, adapt, translate, or create derivative works;
+   d) distribute, publish, sublicense, transfer or make it available to any
+      third party, including by re-uploading it to any repository or site;
+   e) remove or alter any copyright notice, license text or ownership
+      marker contained in the Software;
+   f) copy it into, or use it to train or fine-tune, any dataset or machine
+      learning model.
+
+3. GITHUB TERMS
+   If you view this repository on GitHub, GitHub's Terms of Service allow
+   you to view it and to fork it within the GitHub platform solely for
+   viewing. That platform permission does not grant any right to use, run,
+   modify or distribute the Software outside what Section 1 allows.
+
+4. PATENTS AND OTHER RIGHTS RESERVED
+   The Owner reserves all patent rights, copyrights, trade secret rights,
+   trademark rights, moral rights and commercial rights in the Software, its
+   design, workflows and user interface. No patent license is granted.
+
+5. OWNERSHIP MARKERS
+   The Software contains identifying markers used to establish ownership
+   and to detect unauthorised copies. Their presence in any other product,
+   website or repository is evidence of copying.
+
+6. TERMINATION AND REMEDIES
+   Any use outside Section 1 is unauthorised, terminates any permission
+   you might otherwise have, and may infringe the Owner's copyright. The
+   Owner may seek injunctive relief, damages, an account of profits, and
+   takedown of infringing copies (including DMCA notices to hosting
+   providers and platforms).
+
+7. NO WARRANTY
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+   OR IMPLIED, INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
+   PARTICULAR PURPOSE AND NON-INFRINGEMENT. THE OWNER SHALL NOT BE LIABLE
+   FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM THE SOFTWARE OR
+   ITS USE.
+
+8. PERMISSION REQUESTS
+   To ask for permission or a commercial license, contact the Owner through
+   the GitHub profile that publishes this repository.

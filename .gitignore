@@ -1,0 +1,14 @@
+# Uploaded files and local data
+uploads/products/*
+uploads/expenses/*
+uploads/barcodes/*
+!uploads/.htaccess
+*.sql.bak
+*.log
+
+# Editors / OS
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
+.claude/

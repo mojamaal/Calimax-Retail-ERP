@@ -1,0 +1,12 @@
+# Prevent execution of any script uploaded to this directory.
+<IfModule mod_php7.c>
+    php_flag engine off
+</IfModule>
+<IfModule mod_php8.c>
+    php_flag engine off
+</IfModule>
+<FilesMatch "\.(php|phtml|php\d?|phar|pl|py|cgi|asp|aspx|sh|exe)$">
+    Require all denied
+</FilesMatch>
+AddType text/plain .php .phtml .php3 .php4 .php5 .php7 .phar
+Options -ExecCGI -Indexes
